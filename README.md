@@ -1,4 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo
+![API WHEATHER](https://github.com/RodrigoRA03/React-API-Weather/blob/master/src/1-whytheweathe.jpg)
+
+## API WEATHER SITE
+https://home.openweathermap.org/users/sign_in
 
 ## Available Scripts
 
